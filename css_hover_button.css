@@ -6,6 +6,9 @@ p {
   font-weight: inherit;
   line-height: 180%;
   font-size: 100%;
+}</span>
+pcenter{
+    text-align="center";
 }
 hr {
     border: 1px dotted #ff0000;
