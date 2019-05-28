@@ -1,4 +1,5 @@
 # Shit-List
 A list of deplorables'.
 
-Where you get all the best of the worlds shit categorizes
+Where you get all of the worlds shit, listed.
+Nothing to see currently.
